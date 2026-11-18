@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,NguyenVanHung,Các box người và xe đều ôm sát chuẩn
+img_006.jpg,12,sai_vi_tri_kich_thuoc,NguyenVanHung,Box xe máy hơi rộng phía đuôi xe
+img_014.jpg,,khong,NguyenVanHung,Đã kiểm tra lớp three_wheeler và car chuẩn xác
+img_031.jpg,,khong,NguyenVanHung,Tuk-tuk và xe máy gán nhãn đạt yêu cầu
+img_035.jpg,,khong,NguyenVanHung,Đám đông người và xe máy tách bạch đúng guideline
