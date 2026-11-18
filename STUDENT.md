@@ -1,11 +1,11 @@
-# Thông tin học viên
+﻿# Thông tin học viên
 
 - Họ và tên: Nguyễn Văn Hùng
 - MSHV: 2A202603295
 - Lớp (L2 / L3 / khác): K5-L23
 - Tài khoản GitHub: hungnv0903
 - Repo bài nộp (URL): https://github.com/hungnv0903/K5-L23-Day08-NguyenVanHung-2A202603295-AI-Assisted-Labeling
-- Commit chốt bài (hash): [Chốt sau khi push]
+- Commit chốt bài (hash): 
 - Máy: Windows 11, RAM 8GB, CPU (không GPU)
 - CVAT (Docker): v2.81.0
 
